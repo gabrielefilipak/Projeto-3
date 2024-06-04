@@ -6,18 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: " O vestibular é de extrema importância para garantir um futuro instável e próspero, afinal ele é a forma de ingressar em uma faculdade, mas para que isso aconteça é necessário uma longa jornada de estudos, que demanda muito foco e atenção. E você já pensou em prestar vestibular?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Sim, quero garantir o meu futuro",
+            "Não me importo com isso"
         ]
     }
-{
-        enunciado: "Pergunta 1",
+    {
+        enunciado: "Você já sabe o que quer do seu futuro?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Sim, estou complatamente certo(a)!",
+            "Ainda não sei direito"
         ]
-    }
+    },
+    {
+        enunciado: "Já parou para pensar onde você quer estar daqui à alguns anos?",
+        alternativas: [
+            "Sim, sempre penso no meu futuro!",
+            "Nunca parei para pensar"
+        ]
+    },
+    {
+        enunciado: "Você se esforça para conquistar suas metas?",
+        alternativas: [
+            "Sim, muito!",
+            "Não muito"
+        ]
+    },
+    {
+        enunciado: "Vocẽ já parou para pensar qual faculdade/universidade quer estudar? ",
+        alternativas: [
+            "Já tenho algumas em mente",
+            "Não faço à mínima ideia"
+        ]
+    },
+   
 
-]
+
+];
