@@ -38,7 +38,7 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Sim, sempre penso no meu futuro!",
-                afirmacao: "Que maravilha! É sinal que você já deu um grande passo, afinal todas as conquistas se iniciam com um sonho e com a vontade de fazer ele virar realidade."
+                afirmacao: "SE você pense no seu futuro é sinal que você já deu um grande passo, afinal todas as conquistas se iniciam com um sonho e com a vontade de fazer ele virar realidade."
             },
             {
                 texto:  "Nunca parei para pensar",
