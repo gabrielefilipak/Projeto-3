@@ -52,7 +52,7 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Sim, muito!",
-                afirmacao:"Muito bem! Se continuar se esforçando dessa maneira, certamente vai ir muito longe. Pessoas geniais chegam a lugares incriveis, mas pessoas esforçadas chegam a lugares extraordinários!"
+                afirmacao:" Se você continuar se esforçando dessa maneira, certamente vai ir muito longe. Pessoas geniais chegam a lugares incriveis, mas pessoas esforçadas chegam a lugares extraordinários!"
             },
             {
                 texto: "Não muito",
