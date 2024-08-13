@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
 :root{
     --cor-fundo:#01080E;
     --cor-principal: rgba(55, 7, 39, 0.92);
@@ -9,6 +11,7 @@
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
+    font-family: 'inter', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,6 +30,11 @@ h1{
     color: var(--cor-destaque);
 }
 
+h1, .caixa-perguntas, .caixa-resultado{
+     font-family: 'Courgette', sans-serif;
+}
+
+
 button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
@@ -39,4 +47,18 @@ button{
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
+}
+
+.caixa-alternativas{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.caixa-resultado{
+    display: none;
+}
+
+.caixa-resultado.mostrar{
+    display: block;
 }
