@@ -30,7 +30,7 @@ export const perguntas = [
                     "Isso indica que você planeja seu futuro e se continuar assim certamente irá trilhar uma carreira de sucesso.",
                     "Saber o que deseja para o futuro é fundamental para conquistar o que você planeja."
             ],
-            proxima: 3,
+            proxima: 2,
             },
             {
                 texto: "Ainda não sei direito",
@@ -52,7 +52,7 @@ export const perguntas = [
                     "Se você pense no seu futuro é sinal que você já deu um grande passo, afinal todas as conquistas se iniciam com um sonho e com a vontade de fazer ele virar realidade.",
                     "Pensar nos seus planos é essencial para realizá-los, pois o pensamento pode se tornar uma fonte de inspiração e determinação."
             ],
-            proxima: 4,
+            proxima: 3,
             },
             {
                 texto:  "Nunca parei para pensar",
@@ -74,7 +74,7 @@ export const perguntas = [
                     "Se você continuar se esforçando dessa maneira, certamente vai ir muito longe. Pessoas geniais chegam a lugares incriveis, mas pessoas esforçadas chegam a lugares extraordinários!",
                     "O suceso é a soma de pequenos esforços dia após dia, por isso não deixe de se esforçar, por que um dia os seus esforços te levaram muito longe "
              ],
-             proxima: 5,
+             proxima: 4,
             },
             {
                 texto: "Não muito",
